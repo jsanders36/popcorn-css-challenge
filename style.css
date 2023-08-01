@@ -1,5 +1,112 @@
-/*COLORS:
-Header background - #FFDBAA
-button - #805215
-Header Text - #553100
-Main background - #D4A76A*/
+Header {
+  background-color: #FFDBAA;
+  color: #553100;
+  height: 200%;
+  font-weight: bold;
+  font-size: 40px;
+  text-indent: 60px;
+  text-align: left;
+  width: 100%;
+
+}
+
+#home {
+  margin-left: 500px;
+}
+
+.top {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  height: 75px;
+  vertical-align: middle;
+  width: 150px;
+  font-weight: bolder;
+  font-size: 20px;
+  text-align: center;
+}
+
+button {
+  background-color: #805215;
+  color: white
+}
+
+Main {
+  background-color: #D4A76A;
+  height: 800px;
+}
+
+#flights2 {
+  float: left;
+  align-content: left;
+  margin-left: 160px;
+  margin-right: 60px;
+}
+
+#group {
+  float: left;
+  margin-left: 60px;
+  margin-right: 30px;
+}
+
+#discount {
+  float: right;
+  align-content: right;
+  margin-left: 30px;
+  margin-right: 160px;
+}
+
+
+.boxes {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  height: 200px;
+  width: 400px;
+  font-weight: bolder;
+  font-size: 20px;
+  text-align: center;
+}
+
+div {
+  background-color: white;
+  color: black;
+  padding: 20px;
+  margin: 20px;
+  border: 5px transparent black;
+  font-weight: bolder;
+  font-size: 20px;
+  text-align: center;
+}
+
+.boxes button {
+  font-weight: bolder;
+  font-size: 20px;
+  align-content: center;
+  margin-top: 40px;
+  height: 75px;
+  width: 400px;
+}
+
+article {
+  margin-top: 450px;
+  height: 10%;
+  font-weight: bold;
+  font-size: 20px;
+  text-indent: 60px;
+  text-align: center;
+  width: 100%;
+}
+
+article button {
+  font-size: 20px;
+  font-weight: bolder;
+  margin-top: 20px;
+  height: 75px;
+  width: 1000px;
+}
+
+.div p {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+  text-align: center;
+}
